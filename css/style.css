@@ -63,12 +63,15 @@ button p {
     margin: 0;
     padding: 0;
 }
+
 a:link {
     color: #F7374F;
 }
+
 a:visited {
     color: #F7374F;
 }
+
 #home {
     width: 10%;
     margin: 0 auto;
